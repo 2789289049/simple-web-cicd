@@ -41,6 +41,7 @@ HTML = """<!DOCTYPE html>
             <p><span>容器 ID：</span>{{ hostname }}</p>
             <p><span>部署时间：</span>{{ deploy_time }}</p>
             <p><span>环境：</span>{{ environment }}</p>
+            <p><span>学号：</span>2440664319 周颜</p>
         </div>
     </div>
 </body>
